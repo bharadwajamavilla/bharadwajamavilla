@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/bharadwaja-mavilla-780793228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharadwaja-mavilla-780793228" height="30" width="40" /></a>
-<a href="https://instagram.com/bharadwaj.offline" target="blank"><img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-instagram.svg" alt="bharadwaj.offline" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bharadwaja1557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharadwaja1557" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharadwaja-mavilla-780793228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharadwaja-mavilla-780793228" height="40" width="40" /></a>
+<a href="https://instagram.com/bharadwaj.offline" target="blank"><img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-instagram.svg" alt="bharadwaj.offline" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/bharadwaja1557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharadwaja1557" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
