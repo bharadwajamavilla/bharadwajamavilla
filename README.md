@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on  **Web application Pentesting**
 
-- 🌱 I’m currently learning  **Burpsuite, Meterpreter shell**
+- 🌱 I’m currently learning  **OWASP10**
 
 - 👯 I’m looking to collaborate on  **any open source projects**
 
