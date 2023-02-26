@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRhODhkOWU5NjFiODQ1MWUxYTE4ZGY0OTUzMjc2Y2MyY2E0MjJjNyZjdD1n/LKNbC0M2wKPdWzqTA2/giphy.gif" width="200"/>
 </div>
 <h1 align="center">Hi👋, I'm Bharadwaj</h1>
 <h3 align="center">A passionate Cyber security enthusiast from an Unknown Planet..🛸</h3>
