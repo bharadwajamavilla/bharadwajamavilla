@@ -2,7 +2,7 @@
   <img src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/privateinvestocat.png" width="200"/>
 </div>
 <h1 align="center">Hi👋, I'm Bharadwaj</h1>
-<h3 align="center">A passionate Cyber security enthusiast from an Unknown Planet..🛸</h3>
+<h3 align="center">A passionate Cyber security enthusiast trying to make a Change!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajamavilla&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajamavilla" /></p>
 <!--
@@ -17,9 +17,7 @@
 
 - 💬 Ask me about  **Cybersecurity, Bug bounty, Pentesting**
 
-- 😄 Pronouns:  **Alpha**
-
-- ⚡ Fun fact:  **UFO Believer, because we all are Aliens, right? 👽**
+- ⚡ Fun fact:  **By the time you read this, 1557 cyber attacks took place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
