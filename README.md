@@ -19,21 +19,6 @@
 
 - ⚡ Fun fact:  **By the time you read this, 1557 cyber attacks took place**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  
-<a href="www.linkedin.com/in/bharadwaj1557" target="blank">
-<img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-linkedin.svg" alt="bharadwaj1557" height="40" width="40" />
-</a>
-
-<a href="https://instagram.com/bharadwaj.offline" target="blank">
-<img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-instagram.svg" alt="bharadwaj.offline" height="40" width="40" /></a>
-
-<a href="https://www.hackerrank.com/bharadwaja1557" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharadwaja1557" height="40" width="40" />
-</a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" >
@@ -83,6 +68,22 @@
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  
+<a href="www.linkedin.com/in/bharadwaj1557" target="blank">
+<img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-linkedin.svg" alt="bharadwaj1557" height="40" width="40" />
+</a>
+
+<a href="https://instagram.com/bharadwaj.offline" target="blank">
+<img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-instagram.svg" alt="bharadwaj.offline" height="40" width="40" /></a>
+
+<a href="https://www.hackerrank.com/bharadwaja1557" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharadwaja1557" height="40" width="40" />
 </a>
 
 </p>
